@@ -38,14 +38,6 @@ The application currently supports the following symptoms:
 - **BMI Calculation:** Python mathematical operations
 - **Data Storage:** Python dictionary for predefined self-care suggestions
 
-## 📂 Project Structure
-
-```text
-Healthcare-Assistant/
-│
-├── app.py          # Main Streamlit application
-├── requirements.txt # Project dependencies
-└── README.md       # Project documentation
 ```
 
 ## ⚙️ Installation and Setup
